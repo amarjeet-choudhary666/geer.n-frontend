@@ -16,6 +16,17 @@ React Icons – Icon library for easy integration of popular icon sets
  I create the deletie controlller as per your requrement in backend but because of the shortage i pushed repo without adding 
 adding deletng feature 
 
+The backend uses the cors middleware to allow requests from the frontend during development. Since the frontend can run on different ports (e.g., 3000, 3001), CORS is configured to accept multiple origins.
+
+Location: app.js or use can reolace the cors url with array of cors url
+app.use(
+  cors({
+    origin: ["http://localhost:3000", "http://localhost:3001"],
+    credentials: true, 
+  })
+);
+
+
 ![image](https://github.com/user-attachments/assets/f1a5318a-e630-499d-b96d-b2f423574734)
 these three are the routes where product are displaying on screen plss click on routes to see the filtered data fetching from backend by category name 
 and type name
