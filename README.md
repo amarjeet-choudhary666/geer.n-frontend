@@ -14,12 +14,11 @@ React Icons – Icon library for easy integration of popular icon sets
 
 
  I create the deletie controlller as per your requrement in backend but because of the shortage i pushed repo without adding 
-adding deletng feature
+adding deletng feature 
 
 ![image](https://github.com/user-attachments/assets/f1a5318a-e630-499d-b96d-b2f423574734)
-these three are the routes where product are displaying on screen plss click on routes
-
-
+these three are the routes where product are displaying on screen plss click on routes to see the filtered data fetching from backend by category name 
+and type name
 
 his is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
