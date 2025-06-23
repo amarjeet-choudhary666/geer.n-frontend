@@ -1,4 +1,22 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Tech stack:
+ Frontend Tech Stack
+✅ Framework & Language
+React.js – Component-based frontend library for building dynamic UIs
+
+TypeScript – Typed superset of JavaScript for scalable, safer code
+
+🎨 Styling & UI
+Tailwind CSS – Utility-first CSS framework for fast, responsive styling
+
+shadcn/ui – Beautifully designed, accessible UI components built on Radix and Tailwind CSS
+
+React Icons – Icon library for easy integration of popular icon sets
+
+
+delete i create the deletinf controlller in backend but because of the shortage i pushed repo without adding 
+adding deletng feature
+
+his is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
